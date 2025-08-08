@@ -1,5 +1,5 @@
 # Hi :D
-[![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
+[![Discord Presence](https://api.deutscher775.de/presence/690123872674119710/image)](https://discord.com/users/690123872674119710)
 
 ## Some random ass full-stack developer.
 [jesn.zip](https://jesn.zip) | [deutscher775.de](https://deutscher775.de)
