@@ -2,7 +2,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
 
 ## Some random ass full-stack developer.
-[deutscher775.de](https://deutscher775.de) | [jesn.zip](https://jesn.zip)
+[jesn.zip](https://jesn.zip) | [deutscher775.de](https://deutscher775.de)
 
 # Current projects
 | Name                                                                       | Website                             | Description                                                                        |
