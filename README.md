@@ -1,21 +1,34 @@
-# Hi :D
+<div align="center">
 
-## Some random ass full-stack developer.
-[jesn.zip](https://jesn.zip) | [deutscher775.de](https://deutscher775.de)
+# Hej, i'm Isa 👋
 
-# Current projects
-| Name                                                                       | Website                             | Description                                                                        |
-| -------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------- |
-|[Astroid](https://github.com/astroid-app)                                   | https://astroid.cc                  | A multi-platform bridge with open REST-API. Currently re-wirting in TypeScript     |
-|[s.jesn.zip](https://github.com/deutscher775/s.jesn.zip)                    | https://s.jesn.zip                  | A link shortener and file sharing service written in Python and JavaScript         |
-|[deutscher775.de/jesn.zip](https://github.com/deutscher775/deutscher775.de) | https://jesn.zip                    | My homepage                                                                        |
-|[PyLeafAPI](https://github.com/deutscher775/pyleafapi)                      | None (selfhost)                     | A smart-home controller API. Currently working on Amazon Echo Skill                |
-|[nerimity.py](https://github.com/deutscher775/nerimity.py)                  | https://pypi.org/project/nerimity/  | Python Framework to develop Bots for [Nerimity](https://nerimity.com)              |
- 
+**full-stack developer · open source enthusiast · editor at [atomicradio](https://atomic.radio)**
 
-## Stats
-### Other usefull stats
-![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanosaurus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanosaurus&layout=compact)
+[![Website](https://img.shields.io/badge/jesn.zip-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jesn.zip)
+[![Website](https://img.shields.io/badge/yourgothfemboy.de-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourgothfemboy.de)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isanosaurus)
 
-### Editor at <a href="https://atomic.radio" target="_blank">atomicradio</a> with 💙
+</div>
+
+---
+
+## 🚀Current projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**Astroid**](https://github.com/astroid-app) · [astroid.cc](https://astroid.cc) | Multi-platform bridge with open REST API | 🔄 rewriting in TypeScript |
+| [**s.jesn.zip**](https://github.com/isanosaurus/s.jesn.zip) · [s.jesn.zip](https://s.jesn.zip) | Link shortener & file sharing in Python/JS | ✅ live |
+| [**yourgothfemboy.de**](https://github.com/isanosaurus/deutscher775.de) · [yourgothfemboy.de](https://yourgothfemboy.de) | Personal homepage | ✅ live |
+| [**PyLeafAPI**](https://github.com/isanosaurus/pyleafapi) | Smart-home controller API, Amazon Echo Skill WIP | 🔧 self-hosted |
+| [**nerimity.py**](https://github.com/isanosaurus/nerimity.py) · [pypi](https://pypi.org/project/nerimity/) | Python framework for [Nerimity](https://nerimity.com) bots | ✅ live |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isanosaurus&background=0d1117&theme=tokyonight)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=isanosaurus&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+</div>
