@@ -1,5 +1,4 @@
 # Hi :D
-[![Discord Presence](https://api.deutscher775.de/presence/690123872674119710/image)](https://discordapp.com/users/690123872674119710)
 
 ## Some random ass full-stack developer.
 [jesn.zip](https://jesn.zip) | [deutscher775.de](https://deutscher775.de)
