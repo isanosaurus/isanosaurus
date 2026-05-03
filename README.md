@@ -14,10 +14,8 @@
  
 
 ## Stats
-### My coding time
-![Coding Time](https://track.catpawz.net/api/activity/chart/Deutscher775.svg)
 ### Other usefull stats
-![Jasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=deutscher775&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deutscher775&layout=compact)
+![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanosaurus&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanosaurus&layout=compact)
 
 ### Editor at <a href="https://atomic.radio" target="_blank">atomicradio</a> with 💙
